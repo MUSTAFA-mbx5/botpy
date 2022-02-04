@@ -61,7 +61,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس - لتلعب ",
-      "value": "https://github.com/USERBOTJEPTHON/JEPTHON-AR",
+      "value": "https://github.com/MUSTAFA-mbx5/USERBOTJEPTHON",
       "required": false
     }
   },
