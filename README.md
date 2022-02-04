@@ -1,5 +1,5 @@
-<h1 align="center"><b>𝟭:𝟭𝟳 | 𝙈𝙐𝙎𝙏𝘼𝙁𝘼 𖣝 | ཧᜰ꙰ꦿ➢</b></h1>
-<h4 align="center"> 𝙏𝙀𝙈 𝙈𝘽𝙓- </h4>
+<h1 align="center"><b>🇮𝟭:𝟭𝟳 | 𝙈𝙐𝙎𝙏𝘼𝙁𝘼 𖣝 | ཧᜰ꙰ꦿ➢ </b></h1>
+<h4 align="center">مرحبا بيك .</h4>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJepThon-AR%2FJM-THON&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/JepThon-AR/JM-THON)
 [![Open Source](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
